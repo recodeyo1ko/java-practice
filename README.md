@@ -5,6 +5,6 @@
 - コンテナの中で操作する
 
 - vscode の拡張機能を利用する
-  - Remote - Containers
+  - Remote Development
   - Extension Pack for Java
   - [非推奨] Code Runner を入れないほうが実行ボタンの操作が楽
